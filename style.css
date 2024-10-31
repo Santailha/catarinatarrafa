@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+}
+
+.logo {
+    background-color: black;
+}
+
+.logo1 {
+    width: 350px;
+}
+
+.display {
+    text-align: center;
+}
+
+.fotoduda {
+    width: 300px;
+    border-radius: 500px;
+    margin-top: 25px;
+}
+
+.titulo {
+    margin-top: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 30pt;
+}
+
+.button {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.botao {
+    background-color: rgb(159, 219, 199);
+    padding: 15px 30px;
+    border-radius: 10px;
+    font-size: 16px;
+    color: black;
+    cursor: pointer;
+}
+.botao:hover {
+    background-color: rgb(43, 253, 183); 
+}
+
+body {
+    background-image: url('img/BACKGROUND-04.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
